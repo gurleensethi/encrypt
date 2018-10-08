@@ -5,7 +5,8 @@ author: leocavalcante <lc@leocavalcante.com>
 homepage: https://github.com/leocavalcante/encrypt
 
 environment:
-  sdk: ">=2.0.0-dev <3.0.0"
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  flutter: ">=0.1.4 <2.0.0"
 
 dependencies:
   pointycastle: ^1.0.0-rc2
